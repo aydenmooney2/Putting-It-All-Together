@@ -156,3 +156,19 @@ h2 a:hover {
     color: #ff8c42;
     text-decoration: underline;
 }
+
+.home-btn {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #1f3c88; /* dark blue */
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.home-btn:hover {
+    background-color: #ff8c42; /* orange accent */
+    transition: 0.3s;
+}
+
